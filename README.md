@@ -2,7 +2,6 @@
   <a href="https://github.com/candypopZZ"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=3000&pause=500&color=9B4DFF&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Anis+Daniyah+👋;" alt="Typing SVG" /></a>
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=c4ndypop&color=9B4DFF&style=flat)
 
 Hi! I’m Anis, a 3rd-year IT student currently exploring different areas within the tech field. With a growing passion for cybersecurity, I’m still in the process of discovering my niche and figuring out where I’d like to specialize.
 
